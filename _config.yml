@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Yue Guo's Academic Homepage"
 title_separator          : "-"
 name                     : &name "Yue Guo"
-description              : &description "Yue Guo's Academic Homepage"
+description              : &description "About me"
 url                      : https://guoyue-policy.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guoyue-policy/guoyue-policy.github.io"
@@ -88,7 +88,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : true      #change to true to add link to talkmap on talks page
 comments:
