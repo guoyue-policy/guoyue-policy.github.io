@@ -1,0 +1,10 @@
+---
+title: "Aligning Behavioral Assumptions Underlying Policy Instruments: A Principle for Designing Policy Mixes Targeting Behavioral Change"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-03-04-Aligning-Behavioral-Assumptions
+date: 2025-03-04
+venue: 'Public Administration'
+citation: 'He, L., Dai, Y. and Guo, Y. (2025), Aligning Behavioral Assumptions Underlying Policy Instruments: A Principle for Designing Policy Mixes Targeting Behavioral Change. Public Admin. https://doi.org/10.1111/padm.13057'
+---
+In practice, multiple policy instruments are often combined to achieve complex goals. However, predicting whether policy mixes will have complementary or conflicting effects remains a theoretical challenge, especially in those aimed at changing individuals' cognition and behavior. We provide novel theoretical and empirical insights into policy mix effectiveness by defining and differentiating the behavioral assumptions embedded in policy instruments, arguing that outcomes depend not only on the assumptions within each instrument but also on the consistency of assumptions across instruments. We conducted a survey experiment in a Chinese city preparing to build a nuclear power plant (NPP; n = 417). After testing participants' acceptance of NPP construction across different policy mix scenarios (combining egoistic and altruistic instruments), we found that mixes grounded in consistent behavioral assumptions more effectively increased public acceptance. Thus, consistent behavioral assumptions across policy instruments should be a core principle when designing policy mixes targeting behavioral change.
