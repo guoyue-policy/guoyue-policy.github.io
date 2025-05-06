@@ -3,6 +3,7 @@ title: "Aligning Behavioral Assumptions Underlying Policy Instruments: A Princip
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-04-Aligning-Behavioral-Assumptions
+excerpt: 'This study shows that policy mixes are more effective in promoting public acceptance when the behavioral assumptions across instruments are consistent, based on a survey experiment in a Chinese city planning a nuclear power plant.'
 date: 2025-03-04
 venue: 'Public Administration'
 citation: 'He, L., Dai, Y. and Guo, Y. (2025), Aligning Behavioral Assumptions Underlying Policy Instruments: A Principle for Designing Policy Mixes Targeting Behavioral Change. Public Admin. https://doi.org/10.1111/padm.13057'
