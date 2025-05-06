@@ -19,6 +19,9 @@ main:
     
   - title: "Lab's Members"
     url: /team/
+
+  - title: "Teams"
+    url: /portfolio/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
