@@ -17,11 +17,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Lab's Members"
-    url: /team/
+#  - title: "Lab's Members"
+#    url: /team/
 
-  - title: "Teams"
-    url: /portfolio/
+#  - title: "Teams"
+#    url: /portfolio/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
