@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About
+About Me
 ======
 **Yue Guo** is an Associate Professor and Chair of the Department of Public Policy at the School of Government, Beijing Normal University. He received his Ph.D. in Management from Tsinghua University and completed postdoctoral research at Harvard University. His research interests include behavioral public policy, policy process theory, and technology governance.
 
