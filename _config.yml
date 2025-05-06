@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Guo, Yue (郭跃)"
-  pronouns         : "he/him"  
-  bio              : "Associate Professor and Chair of the Department of Public Policy at the School of Government, Beijing Normal University"
+  # pronouns         : "he/him"  
+  # bio              : "Associate Professor and Chair of the Department of Public Policy at the School of Government, Beijing Normal University"
   location         : "Beijing, China"
   employer         : "Beijing Normal University"
   uri              : "http://www.sg.bnu.edu.cn/szdw/ggzcx/fjs1/0007be8dcec140f8b55e6175f4d5c395.htm"
